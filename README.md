@@ -1,16 +1,16 @@
-### Hi there 👋
+# Welcome to Vijay's GitHub Profile!
 
-<!--
-**vijay94/vijay94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! 👋 Welcome to my GitHub profile. I'm Vijay Sundharapandiyan, and I'm passionate about web development, opensource, infrastructure.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a full stack engineer who loves cycling, lifting, travelling. With a background in Information Technology, I enjoy develop websites and build apps.
+
+## Get in Touch
+
+- 📧 Email: [vijaycenation14@gmail.com](vijaycenation14@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/vijay-sundharapandiyan](https://www.linkedin.com/in/vijay-sundharapandiyan/)
+
+Feel free to reach out if you'd like to collaborate, have questions about my projects, or just want to connect!
+
+Thanks for visiting my profile! Enjoy exploring my projects and learning more about me.
