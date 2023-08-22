@@ -13,4 +13,4 @@ I'm a full stack engineer who loves cycling, lifting, travelling. With a backgro
 
 Feel free to reach out if you'd like to collaborate, have questions about my projects, or just want to connect!
 
-Thanks for visiting my profile! Enjoy exploring my projects and learning more about me.
+Thanks for visiting my profile! Enjoy exploring my projects.
