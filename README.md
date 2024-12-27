@@ -8,7 +8,6 @@ I'm a full stack engineer who loves cycling, lifting, travelling. With a backgro
 
 ## Get in Touch
 
-- 📧 Email: [vijaycenation14@gmail.com](vijaycenation14@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/vijay-sundharapandiyan](https://www.linkedin.com/in/vijay-sundharapandiyan/)
 
 Feel free to reach out if you'd like to collaborate, have questions about my projects, or just want to connect!
